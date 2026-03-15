@@ -1,0 +1,16 @@
+{
+  "id": "/pwa/index.html",
+  "name": "Validación Estacionamiento",
+  "short_name": "Validar Ticket",
+  "start_url": "/pwa/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "/pwa/icon-192.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
